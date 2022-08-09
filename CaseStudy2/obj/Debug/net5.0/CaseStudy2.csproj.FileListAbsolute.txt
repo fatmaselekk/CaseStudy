@@ -1,0 +1,16 @@
+C:\Users\fsele\source\repos\CaseStudy\CaseStudy2\bin\Debug\net5.0\CaseStudy2.exe
+C:\Users\fsele\source\repos\CaseStudy\CaseStudy2\bin\Debug\net5.0\CaseStudy2.deps.json
+C:\Users\fsele\source\repos\CaseStudy\CaseStudy2\bin\Debug\net5.0\CaseStudy2.runtimeconfig.json
+C:\Users\fsele\source\repos\CaseStudy\CaseStudy2\bin\Debug\net5.0\CaseStudy2.runtimeconfig.dev.json
+C:\Users\fsele\source\repos\CaseStudy\CaseStudy2\bin\Debug\net5.0\CaseStudy2.dll
+C:\Users\fsele\source\repos\CaseStudy\CaseStudy2\bin\Debug\net5.0\ref\CaseStudy2.dll
+C:\Users\fsele\source\repos\CaseStudy\CaseStudy2\bin\Debug\net5.0\CaseStudy2.pdb
+C:\Users\fsele\source\repos\CaseStudy\CaseStudy2\obj\Debug\net5.0\CaseStudy2.csproj.AssemblyReference.cache
+C:\Users\fsele\source\repos\CaseStudy\CaseStudy2\obj\Debug\net5.0\CaseStudy2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fsele\source\repos\CaseStudy\CaseStudy2\obj\Debug\net5.0\CaseStudy2.AssemblyInfoInputs.cache
+C:\Users\fsele\source\repos\CaseStudy\CaseStudy2\obj\Debug\net5.0\CaseStudy2.AssemblyInfo.cs
+C:\Users\fsele\source\repos\CaseStudy\CaseStudy2\obj\Debug\net5.0\CaseStudy2.csproj.CoreCompileInputs.cache
+C:\Users\fsele\source\repos\CaseStudy\CaseStudy2\obj\Debug\net5.0\CaseStudy2.dll
+C:\Users\fsele\source\repos\CaseStudy\CaseStudy2\obj\Debug\net5.0\ref\CaseStudy2.dll
+C:\Users\fsele\source\repos\CaseStudy\CaseStudy2\obj\Debug\net5.0\CaseStudy2.pdb
+C:\Users\fsele\source\repos\CaseStudy\CaseStudy2\obj\Debug\net5.0\CaseStudy2.genruntimeconfig.cache
